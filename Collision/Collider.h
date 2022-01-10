@@ -2,6 +2,7 @@
 #ifndef COLLISION_H
 #define COLLISION_H
 #include <SFML/Graphics.hpp>
+#include "math.h"
 #include "Entities/Object.h"
 
 struct CollisionCase
